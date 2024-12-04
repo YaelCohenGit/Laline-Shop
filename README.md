@@ -1,3 +1,3 @@
 # Laline-Shop
 # A React Shopping Website
-Clone the presentation for more info
+Clone the presentation.mp4 for more info
